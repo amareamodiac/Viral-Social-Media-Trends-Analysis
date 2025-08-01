@@ -16,8 +16,8 @@ The goal is to understand what makes content go viral — is it about being seen
 
 ## 🧰 Tools Used
 
-- Python (Pandas, Matplotlib, Seaborn)
-- Jupyter Notebook
+- Python (Pandas, Matplotlib, Seaborn)/VSCode
+- Google Colab for direct coding and preview
 - Dataset: Cleaned_Viral_Social_Media_Trends.csv
 
 ---
